@@ -1,0 +1,23 @@
+{
+  "name": "test-cytorus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitguptagwl/test-cytorus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amitguptagwl/test-cytorus/issues"
+  },
+  "homepage": "https://github.com/amitguptagwl/test-cytorus#readme",
+  "dependencies": {
+    "cypress": "^7.6.0"
+  }
+}
